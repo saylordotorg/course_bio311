@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO311: Molecular Biology"
+course_description: "A detailed exploration of the structure and function of DNA and RNA and how these nucleic acids are used to form proteins, and their importance in genetics and inheritance. Special emphasis is placed on DNA replication, transcription, gene expression, mutation and repair, recombination, molecular techniques, and appropriate molecular models."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Regulation of Gene Expression** <span id="7"></span> 
 *The synthesis of a complementary RNA strand from a DNA template takes
 place in somewhat different ways in prokaryotes and in eukaryotes, as

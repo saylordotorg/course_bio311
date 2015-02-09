@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO311: Molecular Biology"
+course_description: "A detailed exploration of the structure and function of DNA and RNA and how these nucleic acids are used to form proteins, and their importance in genetics and inheritance. Special emphasis is placed on DNA replication, transcription, gene expression, mutation and repair, recombination, molecular techniques, and appropriate molecular models."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Nucleic Acids and Proteins: Structure and Function** <span
 id="2"></span> 
 *Nucleic acids and proteins are biopolymers. Nucleic acids are

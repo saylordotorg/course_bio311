@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO311: Molecular Biology"
+course_description: "A detailed exploration of the structure and function of DNA and RNA and how these nucleic acids are used to form proteins, and their importance in genetics and inheritance. Special emphasis is placed on DNA replication, transcription, gene expression, mutation and repair, recombination, molecular techniques, and appropriate molecular models."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: DNA Mutation and Repair** <span id="8"></span> 
 *DNA mutation is a permanent change in the DNA sequence.  Such a change
 may be neutral or good or bad for the cell.  A mutation is neutral if it

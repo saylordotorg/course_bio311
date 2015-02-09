@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO311: Molecular Biology"
+course_description: "A detailed exploration of the structure and function of DNA and RNA and how these nucleic acids are used to form proteins, and their importance in genetics and inheritance. Special emphasis is placed on DNA replication, transcription, gene expression, mutation and repair, recombination, molecular techniques, and appropriate molecular models."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Model Organisms** <span id="11"></span> 
 *Many model organisms are used in molecular biology, both in research
 and in biotechnology.  They help to answer questions on the function of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO311: Molecular Biology"
+course_description: "A detailed exploration of the structure and function of DNA and RNA and how these nucleic acids are used to form proteins, and their importance in genetics and inheritance. Special emphasis is placed on DNA replication, transcription, gene expression, mutation and repair, recombination, molecular techniques, and appropriate molecular models."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Protein Synthesis and the Genetic Code** <span id="6"></span> 
 *Protein synthesis is the translation of nucleic acid sequence to
 protein sequence.  The nucleic acid sequence is read in triplets; each

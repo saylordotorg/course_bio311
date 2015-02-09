@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO311: Molecular Biology"
+course_description: "A detailed exploration of the structure and function of DNA and RNA and how these nucleic acids are used to form proteins, and their importance in genetics and inheritance. Special emphasis is placed on DNA replication, transcription, gene expression, mutation and repair, recombination, molecular techniques, and appropriate molecular models."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Techniques** <span id="10"></span> 
 *The classical core technique in molecular biology is cloning.  The
 cloned DNA is usually recombinant DNA, wherein a plasmid DNA and the

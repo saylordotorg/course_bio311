@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO311: Molecular Biology"
+course_description: "A detailed exploration of the structure and function of DNA and RNA and how these nucleic acids are used to form proteins, and their importance in genetics and inheritance. Special emphasis is placed on DNA replication, transcription, gene expression, mutation and repair, recombination, molecular techniques, and appropriate molecular models."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: DNA Recombination and Transposition** <span id="9"></span> 
 *Recombination and transpositions permanently alter DNA sequences.
 Recombination contributes to DNA repair and it increases genetic
