@@ -164,3 +164,4 @@ Biotechnology](http://www.saylor.org/courses/bio403/) course as well.  
 - [Unit 9](https://legacy.saylor.org/bio311/Unit09/)
 - [Unit 10](https://legacy.saylor.org/bio311/Unit10/)
 - [Unit 11](https://legacy.saylor.org/bio311/Unit11/)
+- [Unit 12](https://legacy.saylor.org/bio311/Unit12/)
