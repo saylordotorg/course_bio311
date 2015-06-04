@@ -150,3 +150,17 @@ Biology](http://www.saylor.org/courses/bio101/), especiallyUnits 3, 5,
 and 7, before you begin.  If you find Unit 10 fascinating in this
 course, then consider taking the [BIO403:
 Biotechnology](http://www.saylor.org/courses/bio403/) course as well.  
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/bio311/Unit01/)
+- [Unit 2](https://legacy.saylor.org/bio311/Unit02/)
+- [Unit 3](https://legacy.saylor.org/bio311/Unit03/)
+- [Unit 4](https://legacy.saylor.org/bio311/Unit04/)
+- [Unit 5](https://legacy.saylor.org/bio311/Unit05/)
+- [Unit 6](https://legacy.saylor.org/bio311/Unit06/)
+- [Unit 7](https://legacy.saylor.org/bio311/Unit07/)
+- [Unit 8](https://legacy.saylor.org/bio311/Unit08/)
+- [Unit 9](https://legacy.saylor.org/bio311/Unit09/)
+- [Unit 10](https://legacy.saylor.org/bio311/Unit10/)
+- [Unit 11](https://legacy.saylor.org/bio311/Unit11/)
