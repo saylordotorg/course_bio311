@@ -175,3 +175,4 @@ Biotechnology](http://www.saylor.org/courses/bio403/) course as well.  
 - [Unit 10](https://legacy.saylor.org/bio311/Unit10/)
 - [Unit 11](https://legacy.saylor.org/bio311/Unit11/)
 - [Unit 12](https://legacy.saylor.org/bio311/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO311/BIO311-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO311/BIO311-FinalExam-Answers.html)
