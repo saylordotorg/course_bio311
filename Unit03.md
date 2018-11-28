@@ -149,7 +149,7 @@ Upon successful completion of this unit, students will be able to:
     Their Effects on Gene Expression"**
     Link: The Saylor Foundation's ["Chromatin Modifications and Their
     Effects on Gene
-    Expression](https://resources.saylor.org/archived/wp-content/uploads/2013/10/BIO311-3.4.1-Chromatin-Modifications-and-Their-Effects-on-Gene-Expression-FINAL.pdf)["](https://resources.saylor.org/archived/wp-content/uploads/2013/10/BIO311-3.4.1-Chromatin-Modifications-and-Their-Effects-on-Gene-Expression-FINAL.pdf)
+    Expression](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/BIO311-3.4.1-Chromatin-Modifications-and-Their-Effects-on-Gene-Expression-FINAL.pdf)["](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/BIO311-3.4.1-Chromatin-Modifications-and-Their-Effects-on-Gene-Expression-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this text.
@@ -157,7 +157,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: The Saylor Foundation's "Chromatin Remodeling-A Case
     Study"**
     Link: The Saylor Foundation's ["Chromatin Remodeling-A Case
-    Study"](https://resources.saylor.org/archived/wp-content/uploads/2013/10/BIO311-3.4.2-Chromatin-Remodeling-A-Case-Study-FINAL.pdf)
+    Study"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/10/BIO311-3.4.2-Chromatin-Remodeling-A-Case-Study-FINAL.pdf)
     (PDF)  
       
      Instructions: Read this text.
